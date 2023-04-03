@@ -160,7 +160,7 @@ font-family: 'Square Peg', cursive; */
 .header{
     position: relative;
     background: linear-gradient(to right,rgb(0,0,0,0.0),rgb(0,0,0,0.4)),
-    url(https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/273115164_1587413301612153_5270405197052375037_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-neex0KoQ04AX8TRYbT&_nc_ht=scontent.fsgn5-5.fna&oh=00_AfA37-ppLF55LktMbl0f4QmmNzfEN11Zd07y4SiRdkppZw&oe=642D5C27) center/cover;
+    url(image/bia.jpg) center/cover;
     background-size: contain;
     width: 100%;
     height: 200px;
@@ -227,7 +227,7 @@ font-family: 'Square Peg', cursive; */
     box-shadow: 0px 5px 5px rgb(0,0,0,0.3);
     /* border: 3.5px solid rgb(0,0,0,0.5); */
     background: linear-gradient(to right,rgb(0,0,0,0.0),rgb(0,0,0,0.3)),
-    url(https://scontent.fsgn5-6.fna.fbcdn.net/v/t39.30808-6/318154990_1810760109277470_4454327473768068700_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=M8F9XeBl5r8AX-YaYfd&_nc_ht=scontent.fsgn5-6.fna&oh=00_AfDUjCkEIgbpjpdstQtVO7gVpuO9MtHd3QIKSdduBGwJdQ&oe=642E7555) center/cover;
+    url(image/318154990_1810760109277470_4454327473768068700_n.jpg) center/cover;
     transition: 0.5s;
     text-shadow: 0px 3px 3px rgb(0,0,0,0.3);
     box-shadow: 0px 7px 7px 7px rgb(0,0,0,0.3);
